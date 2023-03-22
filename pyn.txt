@@ -1,0 +1,14 @@
+Tip #1: Code Everyday
+Consistency is very important when you are learning a new language. We recommend making a commitment to code every day. It may be hard to believe, but muscle memory plays a large part in programming. Committing to coding everyday will really help develop that muscle memory. Though it may seem daunting at first, consider starting small with 25 minutes everyday and working your way up from there.
+
+Check out the First Steps With Python Guide for information on setup as well as exercises to get you started.
+
+Tip #2: Write It Out
+As you progress on your journey as a new programmer, you may wonder if you should be taking notes. Yes, you should! In fact, research suggests that taking notes by hand is most beneficial for long-term retention. This will be especially beneficial for those working towards the goal of becoming a full-time developer, as many interviews will involve writing code on a whiteboard.
+
+Once you start working on small projects and programs, writing by hand can also help you plan your code before you move to the computer. You can save a lot of time if you write out which functions and classes you will need, as well as how they will interact.
+
+Tip #3: Go Interactive!
+Whether you are learning about basic Python data structures (strings, lists, dictionaries, etc.) for the first time, or you are debugging an application, the interactive Python shell will be one of your best learning tools. We use it a lot on this site too!
+
+To use the interactive Python shell (also sometimes called a “Python REPL”), first make sure Python is installed on your computer. We’ve got a step-by-step tutorial to help you do that. To activate the interactive Python shell, simply open your terminal and run python or python3 depending on your installation. You can find more specific directions here.

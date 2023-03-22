@@ -1,0 +1,24 @@
+Enter integer value for 'n': 4
+1->->->->2->->->->3->->->->4
+1->->->->2->->->->3
+1->->->->2
+1
+
+C:\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/dwest/PycharmProjects/pythonProject3/a4q4.py
+Enter integer value for 'n': 6
+1->->->->->->2->->->->->->3->->->->->->4
+1->->->->->->2->->->->->->3
+1->->->->->->2
+1
+
+Process finished with exit code 0
+
+C:\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/dwest/PycharmProjects/pythonProject3/a4q4.py
+Enter integer value for 'n': 8
+1->->->->->->->->2->->->->->->->->3->->->->->->->->4
+1->->->->->->->->2->->->->->->->->3
+1->->->->->->->->2
+1
+
+Process finished with exit code 0
+

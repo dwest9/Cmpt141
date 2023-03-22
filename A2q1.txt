@@ -1,0 +1,32 @@
+# David Emmanuel
+
+# Doe869
+
+# 11298443
+
+# Jason Cotou
+
+Question 1
+
+List of function parameters
+A.  (num_coffee, price_coffee, discount, cost)
+
+List of function arguments 
+B.  (1, 2.00, 0) (3, 3.25, 2.00) (7, 2.75, 5.00)
+
+list all the variables that are not arguments and parameters
+C.  (customer1, customer2, customer3)
+
+
+D.  i. total_after_tax(LOCAL SCOPE)
+    ii. cost(LOCAL SCOPE)
+    iii. customer2(GLOBAL SCOPE)
+
+
+E.  Two(2) function definitons
+
+F.  Two(2) function calls(4 correct)
+
+G.  $2.00
+
+static analysis and dynamic analysis

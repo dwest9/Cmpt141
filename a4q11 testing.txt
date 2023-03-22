@@ -1,0 +1,72 @@
+C:\Users\dwest\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/dwest/PycharmProjects/pythonProject3/a4q11.py
+How many rounds is this game: 5
+Enter move for player 1: paper
+Enter move for player 2: rock
+Player 1 wins!
+player 1 won this round. The score is 1 : 0
+Enter move for player 1: lizard
+Enter move for player 2: paper
+Player 2 wins!
+player 2 won this round. The score is 1 : 1
+Enter move for player 1: spock
+Enter move for player 2: rock
+Player 1 wins!
+player 1 won this round. The score is 2 : 1
+Enter move for player 1: paper
+Enter move for player 2: scissors
+Player 2 wins!
+player 2 won this round. The score is 2 : 2
+Enter move for player 1: rock
+Enter move for player 2: spock
+Player 2 wins!
+player 2 won this round. The score is 2 : 3
+Player 2 wins the game with 3 points out of 5
+player 2 won with the last move
+
+Process finished with exit code 0
+
+C:\Users\dwest\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/dwest/PycharmProjects/pythonProject3/a4q11.py
+How many rounds is this game: 6
+Enter move for player 1: rock
+Enter move for player 2: paper
+Player 2 wins!
+player 2 won this round. The score is 0 : 1
+Enter move for player 1: lizard
+Enter move for player 2: spock
+Player 2 wins!
+player 2 won this round. The score is 0 : 2
+Enter move for player 1: spock
+Enter move for player 2: lizard
+Player 1 wins!
+player 1 won this round. The score is 1 : 2
+Enter move for player 1: paper
+Enter move for player 2: spock
+Player 1 wins!
+player 1 won this round. The score is 2 : 2
+Enter move for player 1: lizard
+Enter move for player 2: paper
+Player 2 wins!
+player 2 won this round. The score is 2 : 3
+Enter move for player 1: spock
+Enter move for player 2: scissors
+Player 2 wins!
+player 2 won this round. The score is 2 : 4
+Player 2 wins the game with 4 points out of 6
+player 2 won with the last move
+
+Process finished with exit code 0
+
+C:\Users\dwest\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/dwest/PycharmProjects/pythonProject3/a4q11.py
+How many rounds is this game: 3
+Enter move for player 1: rock
+Enter move for player 2: scissors
+player 1 wins!
+player 1 won this round. The score is 1 : 0
+Enter move for player 1: spock
+Enter move for player 2: lizard
+Player 1 wins!
+player 1 won this round. The score is 2 : 0
+Player 1 wins the game with 2 points out of 2
+
+Process finished with exit code 0
+

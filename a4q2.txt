@@ -1,0 +1,120 @@
+C:\Users\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/Users/dwest/PycharmProjects/pythonProject3/a4q2.py
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 1
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 5
+kiara james | 50 | False
+michael jordan | 60 | True
+John snow | 32 | False
+Mirabel bell | 25 | True
+Sarah blue | 19 | True
+Randy orton | 44 | False
+Randy john | 21 | False
+Stephen mark | 29 | True
+Vanessa willy | 23 | True
+Bell sam | 80 | True
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 2
+Enter Student Name: tolo dom
+Enter Student Number: 99
+Is Student AES ? 0 for False & 1 for True: 1
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 5
+kiara james | 50 | False
+michael jordan | 60 | True
+John snow | 32 | False
+Mirabel bell | 25 | True
+Sarah blue | 19 | True
+Randy orton | 44 | False
+Randy john | 21 | False
+Stephen mark | 29 | True
+Vanessa willy | 23 | True
+Bell sam | 80 | True
+tolo dom | 99 | True
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 3
+Enter Student number to unregister: 80
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 5
+kiara james | 50 | False
+michael jordan | 60 | True
+John snow | 32 | False
+Mirabel bell | 25 | True
+Sarah blue | 19 | True
+Randy orton | 44 | False
+Randy john | 21 | False
+Stephen mark | 29 | True
+Vanessa willy | 23 | True
+tolo dom | 99 | True
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 4
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 5
+kiara james | 50 | False
+michael jordan | 60 | True
+John snow | 32 | False
+Mirabel bell | 25 | True
+Sarah blue | 19 | True
+Randy orton | 44 | False
+Randy john | 21 | False
+Stephen mark | 29 | True
+Vanessa willy | 23 | True
+tolo dom | 99 | True
+1. Create Student List
+2. Register a Student
+3. Delete a Student
+4. AES student list
+5. Display student information
+6. Display AES student information
+7. Quit
+Enter Your Choice: 7
+
+Process finished with exit code 0

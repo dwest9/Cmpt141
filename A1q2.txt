@@ -1,0 +1,15 @@
+# David Emmanuel
+
+# Doe869
+
+# 11298443
+
+# Jason Coutu
+
+Question 2
+
+2A. It has one input. basically asking for just "a word".
+
+2B. It has one output. asking for a set/group of numbers that ask for the words being entered
+
+2C. This algorithm is trying to solve the problem of finding the screte word of every letter being entered that matches the secretword to be outputed.

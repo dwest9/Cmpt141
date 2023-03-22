@@ -1,0 +1,41 @@
+# David Emmanuel
+
+# 11298443
+
+# doe869
+
+# jason coutu
+
+Question 4
+
+
+C:\Users\dwest\anaconda3\python.exe/a2q4.py
+What is the width of the room(ft): 10
+What s the length of the room(ft): 20
+input the cost of a linear foot of baseboard ($): 2
+input the cost of a square foot carpet ($): 10
+For room of 10.0 and 20.0 the cost of renovation is $ 2620.0
+
+Process finished with exit code 0
+
+
+C:\Users\dwest\anaconda3\python.exe/a2q4.py
+What is the width of the room(ft): 15
+What s the length of the room(ft): 25
+input the cost of a linear foot of baseboard ($): 5
+input the cost of a square foot carpet ($): 20
+For room of 15.0 and 25.0 the cost of renovation is $ 8400.0
+
+Process finished with exit code 0
+
+
+C:\Users\dwest\anaconda3\python.exe/a2q4.py
+What is the width of the room(ft): 20
+What s the length of the room(ft): 30
+input the cost of a linear foot of baseboard ($): 15
+input the cost of a square foot carpet ($): 18
+For room of 20.0 and 30.0 the cost of renovation is $ 12800.0
+
+Process finished with exit code 0
+
+

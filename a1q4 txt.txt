@@ -1,0 +1,29 @@
+C:\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/PycharmProjects/pythonProject3/a4q4.py
+
+Enter value for 'n': 3
+1->->->2->->->3->->->4
+1->->->2->->->3
+1->->->2
+1
+
+Process finished with exit code 0
+
+C:\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/PycharmProjects/pythonProject3/a4q4.py
+
+Enter value for 'n': 4
+1->->->->2->->->->3->->->->4
+1->->->->2->->->->3
+1->->->->2
+1
+
+Process finished with exit code 0
+
+C:\PycharmProjects\pythonProject2\venv\Scripts\python.exe C:/PycharmProjects/pythonProject3/a4q4.py
+
+Enter value for 'n': 5
+1->->->->->2->->->->->3->->->->->4
+1->->->->->2->->->->->3
+1->->->->->2
+1
+
+Process finished with exit code 0
